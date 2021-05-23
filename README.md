@@ -8,3 +8,4 @@ If you find a bug in the mobile game Snowball, or have a feature idea/request, h
 
 
 ## [Get Snowball](https://synhayden.com/Snowball)
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200">](https://play.google.com/store/apps/details?id=com.SynHayden.Snowball&hl=en_US&gl=US)
